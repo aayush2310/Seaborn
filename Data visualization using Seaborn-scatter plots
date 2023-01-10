@@ -1,0 +1,22 @@
+Relational plots are used to perform multivariate analysis:-
+1)Scatter Plot
+2)Line Plot(specifically used for time-series data)
+3)FacetGrids(Plotting multiple graphs side by side)
+
+Scatterplot:-
+The scatterplot is a mainstay of statistical visualization.It depicts the joint distribution of two variables using a cloud of points,where each point represents an 
+observation in the dataset.This depiction allows eye to infer a substantial amount of information about whether there is any meaningful relationship between them.
+
+scatterplot can be plotted for both numerical and categorical data,but used mostly for numerical data.
+
+Two ways to draw scatterplot in seaborn:-
+1)relplot(Figure level Function)
+2)scatterplot(Axes level Function)
+
+#code
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
