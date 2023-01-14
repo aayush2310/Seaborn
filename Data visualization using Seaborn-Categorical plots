@@ -1,0 +1,23 @@
+#Plotting with categorical data
+
+#catplot[Figure Level Function]
+
+#1.Categorical Scatterplots
+  a.Stripplot
+  b.Swarmplot
+
+#2.Categorical distribution plots
+  a.boxplot
+  b.Violin plot
+  
+#3.Categorical estimate plots
+  a.Pointplot
+  b.Barplot
+  c.Countplot
+  
+#4.Categorical-Categorical Plots
+  a.Heatmaps
+  b.Clustermaps
+  
+  
+#5.Plotting side by side graphs using FacetGrids
